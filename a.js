@@ -3,4 +3,3 @@ console.log("a 1차 수정");
 console.log("a 2차 수정");
 console.log("a 3차 수정");
 console.log("a 버그 수정"); 
-console.log("reset 연습");
